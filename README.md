@@ -1,1 +1,1 @@
-#### See my works above in "View Code".
+#### See my works in android applications.
