@@ -1,7 +1,7 @@
 
 
-## Telepro
-####  Data Acquisition and Monitoring Software
+## Telepro App
+#### Play Store Link: [Data Acquisition and Monitoring Software](https://play.google.com/store/apps/details?id=com.itelemetrytelepro&pcampaignid=web_share)
 
 <div>
   <img src="https://github.com/SukratiJain/Mobile_App_Development/assets/69874222/66eb6386-7920-4e01-9966-86f3dcaef132" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" height="700" />
